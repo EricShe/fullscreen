@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.52cee70f.css",
-    "main.js": "/static/js/main.339ce43f.js",
+    "main.js": "/static/js/main.507bce99.js",
     "webfontloader.js": "/static/js/webfontloader.65c0ceb5.chunk.js",
     "static/js/787.080222f6.chunk.js": "/static/js/787.080222f6.chunk.js",
     "reactVendor.js": "/static/js/reactVendor.f2de4b1e.js",
@@ -9,7 +9,7 @@
     "index.html": "/index.html",
     "main.css.map": "/main.css.map",
     "main.52cee70f.css.map": "/static/css/main.52cee70f.css.map",
-    "main.339ce43f.js.map": "/static/js/main.339ce43f.js.map",
+    "main.507bce99.js.map": "/static/js/main.507bce99.js.map",
     "webfontloader.65c0ceb5.chunk.js.map": "/static/js/webfontloader.65c0ceb5.chunk.js.map",
     "787.080222f6.chunk.js.map": "/static/js/787.080222f6.chunk.js.map",
     "reactVendor.f2de4b1e.js.map": "/static/js/reactVendor.f2de4b1e.js.map",
@@ -20,6 +20,6 @@
     "vendors.51ca81a4f81db0bf93ef.js",
     "main.css",
     "static/css/main.52cee70f.css",
-    "static/js/main.339ce43f.js"
+    "static/js/main.507bce99.js"
   ]
 }
